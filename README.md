@@ -8,7 +8,7 @@
 
 ## About the project
 
-SPA (single page application). A set of various generators. Password generator, compliment generator, currency converter, random number generator, QR code generator. The ability to switch between light and dark page theme
+Beautiful adaptive calculator. The ability to switch between light and dark page theme
 
 
 
