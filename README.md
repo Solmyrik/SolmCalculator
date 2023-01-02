@@ -1,3 +1,14 @@
+# SolmCalculator
+
+<a href="https://cinemastar.herokuapp.com/">
+  <div>
+   <h3><a href="https://solmyrik.github.io/deco/">SolmCalculator project website</a></h3>
+  </div>
+</a>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
