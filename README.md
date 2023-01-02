@@ -6,6 +6,14 @@
   </div>
 </a>
 
+## About the project
+
+SPA (single page application). A set of various generators. Password generator, compliment generator, currency converter, random number generator, QR code generator. The ability to switch between light and dark page theme
+
+
+
+![Video-Gif720p](https://raw.githubusercontent.com/Solmyrik/SolmCalculator/master/gitimage/SolmCalculator%20-%20Google%20Chrome%202023-01-02%2014-59-02.gif)
+
 
 ## Project technologies
 
